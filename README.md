@@ -1,2 +1,2 @@
 # Hello-World
-just another repository
+project is Hotel Management System
